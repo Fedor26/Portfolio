@@ -1,0 +1,173 @@
+body {
+  background: #f6f6fa;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+  font-family: "Kanit", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.Рамка {
+  background-color: #fff;
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  margin: 0 auto;
+}
+.right-content {
+  padding: 88px 80px 40px 80px;
+  box-sizing: border-box;
+}
+
+.projects {
+  margin-top: 0;
+  padding-left: 0px;
+  padding-bottom: 0;
+  padding-right: 192px;
+}
+.sidetext {
+  background: #e0ebfe;
+  padding-top: 40px;
+  box-sizing: border-box;
+  width: 370px;
+}
+.text-sidebar {
+  padding: 40px 40px 40px;
+}
+.cont {
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+.ce {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+  margin-right: 8px;
+}
+
+.contacts-link {
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #2979ff;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.cont {
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+.Contacts-box {
+  margin-bottom: 40px;
+}
+
+.skills {
+  margin-bottom: 40px;
+}
+
+.skills-list1 {
+  padding-top: 0;
+  padding-bottom: 40px;
+  padding-left: 16px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+}
+
+.skills-list2 {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+  padding-top: 0;
+  padding-bottom: 40px;
+  padding-left: 16px;
+}
+
+.name {
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 55px;
+  margin-top: 0;
+  margin-bottom: 12px;
+
+  font-family: "Tiny5", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.job {
+  font-weight: 700;
+  font-size: 25px;
+  margin-bottom: 8px;
+}
+
+.projects-item {
+  font-weight: 700;
+  font-size: 14px;
+  padding-left: 0;
+}
+
+.link {
+  font-weight: 400;
+  font-size: 14px;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #005fff;
+}
+.link-text {
+  font-weight: 400;
+  font-size: 14px;
+  color: #595959;
+}
+
+.h4 {
+  font-weight: 700;
+  font-size: 30px;
+  margin-bottom: 12px;
+}
+
+.comp {
+  color: #6d9bf5;
+}
+
+.dates {
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.text {
+  font-weight: 400;
+  font-size: 20px;
+  color: #595959;
+  padding-left: 16px;
+  margin-bottom: 0;
+}
+
+.text1 {
+  font-weight: 400;
+  font-size: 16px;
+  color: #595959;
+}
+
+.projects-my {
+  padding-left: 15px;
+}
+
+img {
+  width: 350px;
+  height: 370px;
+}
+
+.h3 {
+  font-weight: 700;
+  font-size: 25px;
+  margin-bottom: 12px;
+}
